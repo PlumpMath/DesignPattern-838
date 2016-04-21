@@ -16,6 +16,33 @@ _the less one entity is conscious of the relationship between itself and others,
 * `Composite/Aggregate Reuse Principle.`  
 *it will be helpful by using Composite/Aggregate,rather than 'extends'*
  
-## 23 Design Patterns *based on design principles*
+## 23 Design Patterns *based on design principles*  
+###Creational patterns  
+* factory method  
+* abstract factory
+* singleton
+* builder
+* prototype  
+
+###Structural patterns
+* adapter
+* bridge
+* composite
+* decoractor
+* facade
+* proxy
+* flyweight    
+
+###Behavioral patterns  
+* command
+* itetator
+* chain responsibility
+* mediator
+* observer
+* strategy
+* state
+* template method
+* visitor
+
 
 
